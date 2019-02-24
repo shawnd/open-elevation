@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 OUTDIR="data"
-#mkdir $OUTDIR
+mkdir -p $OUTDIR
 
 cd $OUTDIR
 
